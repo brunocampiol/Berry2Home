@@ -1,0 +1,7 @@
+http://blog.luppes.com/2015/03/19/mono-on-raspberry-pi/
+
+http://j.tlns.be/2014/11/21/running-asp-net-on-a-raspberry-pi-with-mono-and-owin/
+
+http://pt.slideshare.net/juergengutsch/aspnet-on-the-raspberry-pi-2
+
+https://www.talksharp.com/running-aspnet-vnext-on-the-raspberry-pi

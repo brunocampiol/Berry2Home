@@ -1,0 +1,4 @@
+Sun Oct 25 00:29:22 2015 [Log.Info] [Main] Debug disabled
+Sun Oct 25 00:29:22 2015 [Log.Warning] Deu um warning aqui bro
+Sun Oct 25 00:29:22 2015 [Log.ERROR] Deu um erro aqui bro
+Sun Oct 25 00:29:22 2015 [Log.Info] Deu um info aqui bro
